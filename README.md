@@ -1,13 +1,12 @@
 # MILLE OKWS
 Pronouns: she/her
 
-Control & Automation Engineering student focused on embedded systems,
-control, rapid prototyping and experimental hardware.
+Mechatronics Engineering student exploring aerospace, dynamics, control and experimental engineering.
 
--  building embedded systems, control projects and experimental hardware.
--  deepening my knowledge in control theory, dynamics and aerospace systems.
--  exploring autonomous systems, hardware reverse engineering and experimental engineering.
--  Ask me about microcontrollers, embedded systems, control engineering, 3D printing or rapid prototyping.
+- Building autonomous systems, experimental hardware and physics-based simulations.
+- Working with embedded systems, control theory, aerodynamics and dynamic systems.
+- Exploring rapid prototyping, hardware reverse engineering and computational modeling.
+- Ask me about aerospace, control, embedded systems, simulation or 3D printing.
 
 ---
 
