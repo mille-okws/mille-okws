@@ -1,0 +1,113 @@
+<svg width="900" height="360" viewBox="0 0 900 360"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <rect width="900" height="360" fill="#ffffff"/>
+
+  <!-- Border -->
+  <rect x="1" y="1" width="898" height="358"
+        fill="none" stroke="#111111" stroke-width="2"/>
+
+  <!-- Header -->
+  <text x="40" y="55"
+        font-family="monospace"
+        font-size="24"
+        font-weight="700"
+        letter-spacing="2"
+        fill="#111111">
+    R&amp;D STATUS
+  </text>
+
+  <!-- Status -->
+  <circle cx="810" cy="47" r="5" fill="#ff4d00"/>
+
+  <text x="825" y="53"
+        font-family="monospace"
+        font-size="12"
+        letter-spacing="1"
+        fill="#555555">
+    OPERATIONAL
+  </text>
+
+  <!-- Divider -->
+  <line x1="40" y1="78" x2="860" y2="78"
+        stroke="#111111" stroke-width="1"/>
+
+  <!-- Project 01 -->
+  <text x="40" y="125"
+        font-family="monospace"
+        font-size="14"
+        font-weight="700"
+        fill="#ff4d00">
+    01
+  </text>
+
+  <text x="85" y="125"
+        font-family="monospace"
+        font-size="15"
+        font-weight="700"
+        letter-spacing="1"
+        fill="#111111">
+    ACTIVE FLUTTER SUPPRESSION
+  </text>
+
+  <text x="85" y="149"
+        font-family="monospace"
+        font-size="12"
+        letter-spacing="1"
+        fill="#666666">
+    STATE-SPACE / LQR / AEROELASTICITY
+  </text>
+
+  <!-- Project 02 -->
+  <text x="40" y="200"
+        font-family="monospace"
+        font-size="14"
+        font-weight="700"
+        fill="#ff4d00">
+    02
+  </text>
+
+  <text x="85" y="200"
+        font-family="monospace"
+        font-size="15"
+        font-weight="700"
+        letter-spacing="1"
+        fill="#111111">
+    EMBEDDED SYSTEMS
+  </text>
+
+  <text x="85" y="224"
+        font-family="monospace"
+        font-size="12"
+        letter-spacing="1"
+        fill="#666666">
+    MCU / SENSORS / FIRMWARE
+  </text>
+
+  <!-- Project 03 -->
+  <text x="40" y="275"
+        font-family="monospace"
+        font-size="14"
+        font-weight="700"
+        fill="#ff4d00">
+    03
+  </text>
+
+  <text x="85" y="275"
+        font-family="monospace"
+        font-size="15"
+        font-weight="700"
+        letter-spacing="1"
+        fill="#111111">
+    COMPUTATIONAL MODELING
+  </text>
+
+  <text x="85" y="299"
+        font-family="monospace"
+        font-size="12"
+        letter-spacing="1"
+        fill="#666666">
+    DYNAMICS / NUMERICAL METHODS
+  </text>
+
+</svg>
